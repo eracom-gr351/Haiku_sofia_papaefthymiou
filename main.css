@@ -12,26 +12,41 @@
 
 html {
     color: #222;
-    font-size: 1em;
-    line-height: 1.4;
+    font-size: 14em;
+    line-height: 1;
     font-family: 'Exo 2', sans-serif;
+    background-color: #FAF0E6;
 }
 
 div {
     position: absolute;
-    top: 42%;
+    top: 10%;
     right: 10%;
-    background-color: blue;
-    width: 20em;
+    left: 10%;
+   /* background-color: blue; */
+    width: 80em;
 }
 
 p {
-    background-color: yellow;
+    /* background-color: yellow; */
     width: 18em;
+}
+
+.p2 {
+    text-align: right;
+    right: 70%;
+    width: 21.8em;
+}
+
+.p3 {
+    text-align: right;
+    width: 36em;
+    line-height: 3.2;
 }
 
 .nom {
     text-align: right;
+    width: 44em;
 }
 /*
  * Remove text-shadow in selection highlight:
