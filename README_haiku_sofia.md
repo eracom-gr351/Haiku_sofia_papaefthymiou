@@ -9,6 +9,7 @@ Takahashi Mutsuo
 
 
 La taille de la police à 14em, soit 168 pt, est volontairement et exagérément grande. Cela pousse le lecteur à s’attarder sur chaque lettre; la beauté des lettres en elles-mêmes (police: Exo 2 obtenue sur Google Fonts), ainsi que le sens de chaque mot. On se "promène" sur la page, on aurait envie de dézoomer, mais on est obligés de passer d'un mot à l'autre et d'une phrase à l'autre.
+Le fait de ne pas avoir fait une page responsive est aussi volontaire, mon idée étant de ne pas dimminuer la taille des lettres et de lire le haiku en grande taille.
 La couleur de fond, un beige peau (#FAF0E6), représente la chair lisse et douce de la femme dont le poète parle. Le noir du texte contraste avec la couleur du fond.
 Le sens de lecture me fait penser à l'eau qui s'écoule; de haut en bas, sur une légère pente.
 
